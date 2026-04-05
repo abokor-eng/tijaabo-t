@@ -7,4 +7,4 @@ Git & GitHub
 Goals:
 Become a professional developer
 Contribute to open-source projects
-Build useful and impactful applications
+Build useful and impactful applications.
