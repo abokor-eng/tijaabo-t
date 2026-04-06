@@ -1,10 +1,12 @@
+# Student 
 Abokor Mohamed 
-Skills:
+# Skills:
 HTML
 CSS
 JavaScript
 Git & GitHub
-Goals:
+
+#Goals:
 Become a professional developer
 Contribute to open-source projects
 Build useful and impactful applications.
